@@ -24,6 +24,15 @@ Public Divvy Bike Share trip data (2019–2020, ~790K records).
 - Members show strong weekday and commute-hour usage patterns.
 - Casual riders take longer rides concentrated on weekends and midday.
 - Ride duration distribution is right-skewed and required outlier handling.
+---
+
+## Key Visualizations
+
+### Rides by Hour of Day (Share)
+![Rides by Hour](images/plot_rides_by_hour_share.png)
+
+### Average Ride Length by Day of Week
+![Average Ride Length](images/plot_avglen_by_dow.png)
 
 ---
 
