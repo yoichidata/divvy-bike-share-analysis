@@ -29,11 +29,9 @@ Public Divvy Bike Share trip data (2019–2020, ~790K records).
 ## Key Visualizations
 
 ### Rides by Hour of Day (Share)
-![Rides by Hour](images/plot_rides_by_hour_share.png)
+![Rides by Hour](plot_rides_by_hour_share.png)
 
-### Average Ride Length by Day of Week
-![Average Ride Length](images/plot_avglen_by_dow.png)
-
+![Average Ride Length](plot_avglen_by_dow.png)
 ---
 
 ## Strategic Recommendation
